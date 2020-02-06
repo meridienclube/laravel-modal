@@ -1,5 +1,6 @@
 {
     "name": "confrariaweb/laravel-modal",
+    "version": "dev-master",
     "description": "Modal",
     "keywords": [
         "modal",
