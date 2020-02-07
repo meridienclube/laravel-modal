@@ -22,8 +22,8 @@ $idModal = isset($id)? $id : 'modal' . rand();
                 {{ $slot }}
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">{{ trans('meridien.close') }}</button>
-                <button type="button" class="btn btn-primary save">{{ trans('meridien.save') }}</button>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">{{ trans('Fechar') }}</button>
+                <button type="button" class="btn btn-primary save">{{ trans('Salvar') }}</button>
             </div>
         </div>
     </div>
